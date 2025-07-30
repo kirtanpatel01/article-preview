@@ -19,7 +19,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- [Live](https://your-live-site-url.com)
+- [Live](https://kirtanpatel01.github.io/article-preview/)
 
 ### Built with
 
